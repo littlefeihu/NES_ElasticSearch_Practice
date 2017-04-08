@@ -1,0 +1,14 @@
+D:\work\NES_ElasticSearch_Practice\ESPractice\ESPractice\bin\Debug\ESPractice.exe.config
+D:\work\NES_ElasticSearch_Practice\ESPractice\ESPractice\bin\Debug\ESPractice.exe
+D:\work\NES_ElasticSearch_Practice\ESPractice\ESPractice\bin\Debug\ESPractice.pdb
+D:\work\NES_ElasticSearch_Practice\ESPractice\ESPractice\bin\Debug\Elasticsearch.Net.dll
+D:\work\NES_ElasticSearch_Practice\ESPractice\ESPractice\bin\Debug\Nest.dll
+D:\work\NES_ElasticSearch_Practice\ESPractice\ESPractice\bin\Debug\Newtonsoft.Json.dll
+D:\work\NES_ElasticSearch_Practice\ESPractice\ESPractice\bin\Debug\Elasticsearch.Net.pdb
+D:\work\NES_ElasticSearch_Practice\ESPractice\ESPractice\bin\Debug\Elasticsearch.Net.xml
+D:\work\NES_ElasticSearch_Practice\ESPractice\ESPractice\bin\Debug\Nest.pdb
+D:\work\NES_ElasticSearch_Practice\ESPractice\ESPractice\bin\Debug\Nest.xml
+D:\work\NES_ElasticSearch_Practice\ESPractice\ESPractice\bin\Debug\Newtonsoft.Json.xml
+D:\work\NES_ElasticSearch_Practice\ESPractice\ESPractice\obj\Debug\ESPractice.exe
+D:\work\NES_ElasticSearch_Practice\ESPractice\ESPractice\obj\Debug\ESPractice.pdb
+D:\work\NES_ElasticSearch_Practice\ESPractice\ESPractice\obj\Debug\ESPractice.csprojResolveAssemblyReference.cache
